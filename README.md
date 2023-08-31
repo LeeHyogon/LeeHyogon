@@ -40,7 +40,6 @@ Here are some ideas to get you started:
     <div>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat_square&logo=Linux&logoColor=black">
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat_square&logo=SpringBoot&logoColor=white">
-      <img src="https://img.shields.io/badge/Persistencet-59666C?style=flat_square&logo=Hibernate&logoColor=white">
       <img src="https://img.shields.io/badge/JAVA-007396?style=flat_square&logo=java&logoColor=white">
       <img src="https://img.shields.io/badge/C++/C-00599C?style= flat_square&logo=C&logoColor=white">
       <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat_square&logo=Mysql&logoColor=white">
