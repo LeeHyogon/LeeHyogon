@@ -17,11 +17,9 @@ Here are some ideas to get you started:
 -->
 ### LeeHyogon 😄
 
-|<img src="https://github-readme-stats.vercel.app/api?username=LeeHyogon&show_icons=true&layout=compact&theme=buefy&hide_border=true&&hide=stars,contribs" width="400" />|<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeHyogon&layout=compact&theme=buefy&hide_border=true" /></a>|
+|<img src="https://github-readme-stats.vercel.app/api?username=LeeHyogon&show_icons=true&layout=compact&theme=buefy&hide_border=true&hide=stars,contribs" width="400" />|<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeHyogon&layout=compact&hide_border=true" /></a>|
 | ------------- | ------------- |
 
-
-<div align="center">
 
 
   <div align="left">
